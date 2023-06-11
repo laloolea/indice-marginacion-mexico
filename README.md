@@ -16,9 +16,9 @@ El análisis se realizo utilizando Python y varias bibliotecas de procesamiento 
 
 ## Autor
 
-Lic. en Ciencias de la Computación Eduardo Gonzalez Olea
+Lic. en Ciencias de la Computación. Eduardo Gonzalez Olea
 
-Lic. en Neurociencias Jose Carlos Barreras Maldonado
+Lic. en Neurociencias. Jose Carlos Barreras Maldonado
 
 ## Referencias
 
