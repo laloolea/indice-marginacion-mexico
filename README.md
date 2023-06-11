@@ -22,5 +22,5 @@ Lic. en Neurociencias. Jose Carlos Barreras Maldonado
 
 ## Referencias
 
-[https://www.gob.mx/conapo/documentos/indices-de-marginacion-2020-284372]
-[https://www.gob.mx/cms/uploads/attachment/file/685354/Nota_te_cnica_IMEyM_2020.pdf]
+https://www.gob.mx/conapo/documentos/indices-de-marginacion-2020-284372
+https://www.gob.mx/cms/uploads/attachment/file/685354/Nota_te_cnica_IMEyM_2020.pdf
